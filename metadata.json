@@ -1,0 +1,5 @@
+{
+  "name": "Hyperflow Hex",
+  "description": "A fast-paced retro-futuristic tunnel runner game. Dodge obstacles, collect points, and tweak visual parameters to create your optimal experience. Save your favorite settings to a JSON file.",
+  "requestFramePermissions": []
+}
